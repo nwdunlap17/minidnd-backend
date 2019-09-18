@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  race_id: 1
+  class_type_id: 1
+  character_id: 1
+  description: MyString
+
+two:
+  race_id: 1
+  class_type_id: 1
+  character_id: 1
+  description: MyString

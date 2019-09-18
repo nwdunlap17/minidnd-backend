@@ -1,0 +1,29 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user: one
+  name: MyString
+  class_type: one
+  race: one
+  hp: 1
+  armor: 1
+  abilities: MyString
+  athletics: 1
+  subterfuge: 1
+  lore: 1
+  physical_save: 1
+  magic_save: 1
+
+two:
+  user: two
+  name: MyString
+  class_type: two
+  race: two
+  hp: 1
+  armor: 1
+  abilities: MyString
+  athletics: 1
+  subterfuge: 1
+  lore: 1
+  physical_save: 1
+  magic_save: 1

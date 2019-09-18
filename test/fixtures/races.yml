@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  armor: MyString
+  abilities: MyString
+  athletics: 1
+  subterfuge: 1
+  lore: 1
+  physical_save: 1
+  magic_save: 1
+
+two:
+  name: MyString
+  armor: MyString
+  abilities: MyString
+  athletics: 1
+  subterfuge: 1
+  lore: 1
+  physical_save: 1
+  magic_save: 1
