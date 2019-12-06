@@ -25,7 +25,7 @@ class Character < ApplicationRecord
 
   def skillBonus
     bonus = self.mv
-    if self.race_id == 1 # if they are a human
+    if self.race_id == 1 # IFF they are a human
         bonus += 1
     end
     return bonus
