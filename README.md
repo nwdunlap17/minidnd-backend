@@ -13,6 +13,7 @@ Links:
 **![Rules Document](https://drive.google.com/file/d/1kpT-eM3L-tQyeJf-mRt2d5kgy6neKT1R/view)**
 
 
-#Running locally:
+**Running locally**
+
 This repo only holds the back-end of the application, you'll need the front-end ![here](https://github.com/nwdunlap17/minidnd-frontend)
 The back-end should be run on port 3000 of local host, and expects the front-end to be at port 3001.
