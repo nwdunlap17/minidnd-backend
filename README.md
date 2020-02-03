@@ -19,4 +19,4 @@ This repo only holds the back-end of the application, you'll need the front-end 
 
 Run the back-end using 'bundle install' followed by 'rails s'. 
 
-The front-end expects the back-end to be run on port 3000 of local host.
+By default, the front-end will access the public back-end on heroku, so follow the instructions on the front-end readme to set up locally.
