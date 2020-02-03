@@ -16,4 +16,5 @@ Links:
 **Running locally**
 
 This repo only holds the back-end of the application, you'll need the front-end [here](https://github.com/nwdunlap17/minidnd-frontend)
-The back-end should be run on port 3000 of local host, and expects the front-end to be at port 3001.
+Run the back-end using 'bundle install' followed by 'rails s'. 
+The front-end expects the back-end to be run on port 3000 of local host.
